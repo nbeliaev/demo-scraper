@@ -1,0 +1,2 @@
+ALTER TABLE product_price
+  ALTER COLUMN price TYPE NUMERIC(15,2);
